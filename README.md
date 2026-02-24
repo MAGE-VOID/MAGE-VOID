@@ -1,41 +1,25 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Manuel**](https://www.linkedin.com/in/mage-void), an AI Software Engineer & Algo Trader based in Lima, Peru. I specialize in building high-performance backend systems, orchestrating LLMs for production, and creating tools for financial markets.
+I’m [**Manuel**](https://www.linkedin.com/in/mage-void), a Software Engineer & AI Tinkerer based in Lima, Peru. I love building systems that think for themselves and optimizing engines—both in code and on the road.
 
 **These days I’m focused on:**
-- **AI/LLM Ops:** Building autonomous agents with Claude & OpenAI.
-- **Cloud Architecture:** Serverless systems on AWS (Lambda, S3, EventBridge).
-- **Algorithmic Trading:** Optimizing execution latency and backtesting engines in Python/MQL5.
+- AI Agents & Large Language Models (LLMs)
+- High-performance Cloud Architecture (AWS)
+- Algorithmic Trading strategies & Financial Tech
 
 ---
 
 **Some stuff I built:**
-- [**JobThis**](https://github.com/MAGE-VOID/JobThis) - An intelligent job scraping and filtering tool powered by AI to find hidden opportunities.
-- [**Python-MQL5 Bridge**](https://github.com/MAGE-VOID/Server_Python_MQL5) - A stable TCP server architecture connecting Python ML models with MetaTrader 5 for live trading.
-- **Quant Backtesting Engine** - A high-performance simulation engine using Numba & PyTorch to test trading strategies against years of historical data in seconds.
-- **Binder AI Pipeline** - (Proprietary) An event-driven document processing platform that turns unstructured PDF data into strict JSON schemas.
-
----
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MQL5-Expert-green)
+- [**JobThis**](https://github.com/MAGE-VOID/JobThis) - An intelligent job scraping tool that hunts for hidden opportunities so I don't have to.
+- [**Algo Trading Bridge**](https://github.com/MAGE-VOID/Server_Python_MQL5) - A stable connection between Python ML models and live financial markets (MetaTrader 5).
+- **Quant Simulator** - A high-speed backtesting engine that simulates years of trading data in seconds.
+- **Binder AI** - A document processing platform that turns messy PDFs into structured, clean data using AI.
 
 ---
 
 **Fun Facts:**
 
-* 🏍️ I restore and customize motorcycles (currently working on a QJ Motor SRV 600 V).
-* 🏋️‍♂️ Gym enthusiast focused on strength training.
-* 🤖 I define myself as an "AI-Native Tinkerer"—I use LLMs to speed up everything I build.
-* **Location:** Lima, Peru 🇵🇪
-
----
-<p align="left">
-<a href="https://linkedin.com/in/mage-void" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mage-void" height="20" width="30" /></a>
-<a href="https://investorslogics.com/cv" target="blank"><strong>View My Portfolio</strong></a>
-</p>
+* 🏍️ **Gearhead:** I’m currently customizing a **QJ Motor SRV 600 V** motorcycle. I enjoy 3D modeling custom parts almost as much as riding.
+* 🏋️‍♂️ **Discipline:** I bring the same consistency to the gym (lifting heavy) as I do to maintaining clean code.
+* 🧠 **Philosophy:** I define myself as a "Tinkerer"—I learn by taking things apart and putting them back together better than before.
+* 🇵🇪 **Fuel:** Powered by strong coffee and Lomo Saltado.
