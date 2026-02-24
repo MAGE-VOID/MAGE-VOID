@@ -1,25 +1,32 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Manuel**](https://www.linkedin.com/in/mage-void), a Software Engineer & AI Tinkerer based in Lima, Peru. I love building systems that think for themselves and optimizing engines—both in code and on the road.
+### I'm [Manuel](https://www.linkedin.com/in/mage-void).
 
-**These days I’m focused on:**
-- AI Agents & Large Language Models (LLMs)
-- High-performance Cloud Architecture (AWS)
-- Algorithmic Trading strategies & Financial Tech
+I specialize in building systems that require high precision: from algorithmic trading engines to computer vision solutions. My focus is on bridging the gap between raw data and actionable intelligence, optimizing performance whether it's in the cloud or on the edge.
 
 ---
 
-**Some stuff I built:**
-- [**JobThis**](https://github.com/MAGE-VOID/JobThis) - An intelligent job scraping tool that hunts for hidden opportunities so I don't have to.
-- [**Algo Trading Bridge**](https://github.com/MAGE-VOID/Server_Python_MQL5) - A stable connection between Python ML models and live financial markets (MetaTrader 5).
-- **Quant Simulator** - A high-speed backtesting engine that simulates years of trading data in seconds.
-- **Binder AI** - A document processing platform that turns messy PDFs into structured, clean data using AI.
+### ⚡ What drives me
+
+I operate at the intersection of **Financial Tech** and **Artificial Intelligence**. I don't just write software; I architect ecosystems that can analyze, adapt, and execute autonomously.
+
+* **Autonomous Systems:** Developing agents and LLMs that reduce human operational load.
+* **Algorithmic Trading:** Creating low-latency bridges for real-time financial markets.
+* **Engineering Mindset:** Applying strict architectural patterns to chaotic data streams.
 
 ---
 
-**Fun Facts:**
+### 🛠️ Selected Works
 
-* 🏍️ **Gearhead:** I’m currently customizing a **QJ Motor SRV 600 V** motorcycle. I enjoy 3D modeling custom parts almost as much as riding.
-* 🏋️‍♂️ **Discipline:** I bring the same consistency to the gym (lifting heavy) as I do to maintaining clean code.
-* 🧠 **Philosophy:** I define myself as a "Tinkerer"—I learn by taking things apart and putting them back together better than before.
-* 🇵🇪 **Fuel:** Powered by strong coffee and Lomo Saltado.
+| Project | Description |
+| :--- | :--- |
+| **Algo Trading Bridge** | A high-stability communication protocol ensuring zero-loss data transfer between Python ML models and financial market terminals. |
+| **Binder AI** | An intelligent document processing engine that transforms unstructured legacy files into clean, queryable datasets. |
+| **JobThis** | An automated intelligence tool designed to scrape, filter, and identify niche career opportunities in real-time. |
+| **Quant Simulator** | A proprietary backtesting engine capable of simulating years of market conditions in seconds to validate trading strategies. |
+
+---
+
+### 🔌 Offline Mode: The "Mechanic" Mindset
+
+My obsession with **performance** doesn't end at the terminal. I approach the physical world with the same engineering rigor I apply to software
